@@ -1,2 +1,3 @@
-# THCS2
+# Tin co so 2
 Code by ThanhNQ
+Student at PTIT
