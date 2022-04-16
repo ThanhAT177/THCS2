@@ -1,6 +1,6 @@
 /* Vẽ tam giác theo nguyên tắc (chiều cao không quá 9)
-Input		|	Output
-  5		|	1
+	Input	|	Output
+ 	5	|	1
   		|	2 6
 		|	3 7 10
 		|	4 8 11 13
